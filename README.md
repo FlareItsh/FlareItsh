@@ -52,12 +52,15 @@
 ## 📊 GitHub Stats (Cyber Mode)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlareItsh&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlareItsh&theme=radical&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlareItsh&layout=compact&theme=radical&hide_border=true" height="140" />
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=FlareItsh&show_icons=true&theme=radical&hide_border=true" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlareItsh&layout=compact&theme=radical&hide_border=true" height="200" />
+  </div>
+  <div style="display: flex; justify-content: center;">
+    <a href="https://github.com/FlareItsh">
+      <img src="https://img.shields.io/badge/GitHub%20Streak-View%20on%20Profile-brightgreen?style=for-the-badge" alt="GitHub Streak" height="32" />
+    </a>
+  </div>
 </p>
 
 ---
