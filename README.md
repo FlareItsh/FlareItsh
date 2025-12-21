@@ -54,7 +54,7 @@
 # 📊 GitHub Stats:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlareItsh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FlareItsh&theme=blueberry&hide_border=false&=true&count_private=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=FlareItsh&theme=blueberry&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlareItsh&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
