@@ -2,7 +2,7 @@
   <img src="night.gif" width="100%" alt="Night Owl Cyberpunk Banner" />
 </p>
 
-<h1 align="center">⚡ Hey there, I’m Rayver — also known as <span style="color:#00ffd5">Flare</span> 👋</h1>
+<h1 align="center">Hey there, I’m Rayver — also known as <span style="color:#00ffd5">Flare</span> 👋</h1>
 
 <p align="center">
   <i>Aspiring full-stack developer • Front-end at heart • Night owl coder 🌙</i>
