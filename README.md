@@ -55,7 +55,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-readme-streak-stats-seven-kappa-60.vercel.app/api?username=FlareItsh&theme=blueberry&show_icons=true&hide_border=false&count_private=true" />
-  <img src="https://github-readme-streak-stats-seven-kappa-60.vercel.app/?user=FlareItsh&theme=blueberry&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=FlareItsh&theme=blueberry&hide_border=false" />
   <img src="https://github-readme-streak-stats-seven-kappa-60.vercel.app/api/top-langs/?username=FlareItsh&theme=blueberry&show_icons=true&hide_border=false&count_private=true&layout=compact" />
 </div>
 
