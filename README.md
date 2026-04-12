@@ -51,6 +51,7 @@
 # 📊 GitHub Stats:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FlareItsh&bg_color=242938&color=82aaff&line=89ddff&point=27e8a7&area=true&hide_border=true" width="100%" />
   <img src="https://github-readme-streak-stats-seven-kappa-60.vercel.app/api?username=FlareItsh&theme=blueberry&show_icons=true&hide_border=false&count_private=true" />
   <img src="https://github-streaks-readme-stats.vercel.app/?user=FlareItsh&theme=blueberry&hide_border=false" />
   <img src="https://github-readme-streak-stats-seven-kappa-60.vercel.app/api/top-langs/?username=FlareItsh&theme=blueberry&show_icons=true&hide_border=false&count_private=true&layout=compact" />
